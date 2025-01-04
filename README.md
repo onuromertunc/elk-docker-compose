@@ -17,3 +17,7 @@ Test için logs klasöründe test.log dosyası bulunmakta ve kibana'da onuromert
 ![image](https://github.com/user-attachments/assets/a59f9e72-5296-41cf-8be9-1f6389106429)
 
 ![image](https://github.com/user-attachments/assets/b5ab7136-917f-45d4-a52d-fcad99111ca6)
+
+ curl -X GET "http://localhost:9200/_cat/indices?v"
+
+![image](https://github.com/user-attachments/assets/8783b1b2-7e9b-4588-89d5-893a62fcd3f9)
