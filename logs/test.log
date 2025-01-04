@@ -1,0 +1,4 @@
+2025-01-04T23:00:00 INFO Test log message 1
+2025-01-04T23:01:00 WARN Test log message 2
+2025-01-04T23:02:00 ERROR Test log message 3
+2025-02-04T23:00:00 INFO Test log message 4
